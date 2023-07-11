@@ -1,0 +1,26 @@
+
+.skills__title{
+    text-align: center;
+}
+
+.skills__box{
+ 
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+}
+.skills__data div{
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+}
+.skills__data img{
+  height: 100px;
+  background-color: transparent;
+}
+
+
+
+
