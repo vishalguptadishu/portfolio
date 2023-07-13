@@ -17,12 +17,12 @@ const Projects = () => {
             <div className='projects-box-unit'>
               < img src="https://i.ibb.co/0qqzxCC/project1.png" alt="project1" border="0" />
               <h2>MyCinema</h2>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid, delectus, molestiae praesentium neque doloremque rem eos voluptatum </p>
+              <p>Utilized React to develop a MyCinema website, closely resembling the features and aesthetics of the original platform</p>
               <hr />
               <div className='skill-boxs'>
-                  <p>javascripte</p>
                   <p>HTML</p>
                   <p>CSS</p>
+                  <p>React Js</p>
               </div>
               <div className='projects-box-unit-button' >
                <a href="https://github.com/vishalguptadishu/MyCinema"><button>Github</button></a>
@@ -31,11 +31,11 @@ const Projects = () => {
             </div>
             <div className='projects-box-unit'>
               < img src="https://i.ibb.co/Svng4Yv/project2.png" alt="project1" border="0" />
-              <h2>Layar soppe</h2>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid, delectus, molestiae praesentium neque doloremque rem eos voluptatum </p>
+              <h2>Layers.Shop </h2>
+              <p>Developed a clone of layers.shop using HTML, JavaScript, and CSS, mirroring its functionality and features.</p>
               <hr />
               <div className='skill-boxs'>
-                  <p>javascripte</p>
+                  <p>JavaScript</p>
                   <p>HTML</p>
                   <p>CSS</p>
               </div>
@@ -47,11 +47,11 @@ const Projects = () => {
             
             <div className='projects-box-unit'>
               < img src="https://i.ibb.co/52Lwk89/project3.png" alt="project1" border="0" />
-              <h2>Layar soppe</h2>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid, delectus, molestiae praesentium neque doloremque rem eos voluptatum </p>
+              <h2>Gym Website</h2>
+              <p>Developed a responsive gym website using HTML, CSS, and React Js, providing an interactive user experience and adapting seamlessly to different devices</p>
               <hr />
               <div className='skill-boxs'>
-                  <p>javascripte</p>
+                  <p>React Js</p>
                   <p>HTML</p>
                   <p>CSS</p>
               </div>
@@ -62,11 +62,11 @@ const Projects = () => {
             </div>
             <div className='projects-box-unit'>
               < img src="https://i.ibb.co/4dWPGq5/project4.png" alt="project1" border="0" />
-              <h2>Layar soppe</h2>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid, delectus, molestiae praesentium neque doloremque rem eos voluptatum </p>
+              <h2>Twitter Clone</h2>
+              <p>Developed a Twitter clone using HTML, CSS, and React Js, closely resembling the core functionalities and user interface of the original platform</p>
               <hr />
               <div className='skill-boxs'>
-                  <p>javascripte</p>
+                  <p>React Js</p>
                   <p>HTML</p>
                   <p>CSS</p>
               </div>

@@ -8,7 +8,7 @@ const About = () => {
             <h2 className='section__title'>About Me</h2>
             <span className='section__subtitle'>My Introduction</span>
 
-            <div className="about__container container grid">
+            <div  className="about__container container grid">
                 <img src="https://avatars.githubusercontent.com/u/104011359?v=4" alt="about" className='about__img'/>
 
                 <div className='about__data'>
