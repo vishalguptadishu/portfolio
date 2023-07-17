@@ -14,12 +14,30 @@ const Projects = () => {
          <span className='section__subtitle'>My Projects</span>
          <div className='container  ' >
             <div className='projects-box' >
+
+            <div className='projects-box-unit'>
+              < img src="https://i.ibb.co/Xk8RGpF/Screenshot-1156.png" alt="project1" border="0" />
+              <h2>DishuShop</h2>
+              <p>Developed an e-commerce website with extensive product catalog, add to cart, user accounts, and responsive design.</p>
+              <hr />
+              <div className='skill-boxs'>
+                  <p>javascript</p>
+                  <p>HTML</p>
+                  <p>CSS</p>
+                  <p>React Js</p>
+              </div>
+              <div className='projects-box-unit-button' >
+               <a href="https://github.com/vishalguptadishu/E-commerce"><button>Github</button></a>
+               <a href="https://jovial-moonbeam-327fe0.netlify.app/"><button>Live</button></a>
+              </div>
+            </div>
             <div className='projects-box-unit'>
               < img src="https://i.ibb.co/0qqzxCC/project1.png" alt="project1" border="0" />
               <h2>MyCinema</h2>
               <p>Utilized React to develop a MyCinema website, closely resembling the features and aesthetics of the original platform</p>
               <hr />
               <div className='skill-boxs'>
+                  <p>javascript</p>
                   <p>HTML</p>
                   <p>CSS</p>
                   <p>React Js</p>
@@ -51,6 +69,7 @@ const Projects = () => {
               <p>Developed a responsive gym website using HTML, CSS, and React Js, providing an interactive user experience and adapting seamlessly to different devices</p>
               <hr />
               <div className='skill-boxs'>
+                  <p>javascript</p>
                   <p>React Js</p>
                   <p>HTML</p>
                   <p>CSS</p>
@@ -66,6 +85,7 @@ const Projects = () => {
               <p>Developed a Twitter clone using HTML, CSS, and React Js, closely resembling the core functionalities and user interface of the original platform</p>
               <hr />
               <div className='skill-boxs'>
+                  <p>javascript</p>
                   <p>React Js</p>
                   <p>HTML</p>
                   <p>CSS</p>
